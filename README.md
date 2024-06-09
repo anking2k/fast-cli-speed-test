@@ -16,5 +16,5 @@ This repository contains a PowerShell script to automate continuous internet spe
 
 ## Script
 
-Please this script in a local directory of your choosing and then simply execute it to begin the continuous speed test.
+Place the "check_speed.ps1" script in a local directory of your choosing and then simply execute it to begin the continuous speed test.
 
